@@ -1,0 +1,13 @@
+model,task,use_unstructure,auc,paper auc
+'cnn','mortality',1,0.8356,0.870
+'cnn','mortality',0,0.8283,0.827
+'cnn','readmit',1,0.6274,0.671
+'cnn','readmit',0,0.6444,0.657
+'cnn','llos',1,0.7431,0.784
+'cnn','llos',0,0.7443,0.748
+'lstm','mortality',1,0.8706,0.871
+'lstm','mortality',0,0.8292,0.837
+'lstm','readmit',1,0.6720,0.674
+'lstm','readmit',0,0.6558,0.653
+'lstm','llos',1,0.7841,0.778
+'lstm','llos',0,0.7557,0.757
